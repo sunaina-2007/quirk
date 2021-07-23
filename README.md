@@ -181,3 +181,13 @@ A small amount of data has been corrupted in a recoverable way. The user still h
 Quirk is licensed under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License), which guarantees end users the freedom to study, share, and modify the software.
 
 Note that this license **does not** give free reign to redistribute the name and branding of quirk. So if you'd like to publish your own version, please rename it to avoid end-user confusion.
+
+ # Key facts
+Depression is a common mental disorder. Globally, more than 264 million people of all ages suffer from depression.
+Depression is a leading cause of disability worldwide and is a major contributor to the overall global burden of disease.
+More women are affected by depression than men.
+Depression can lead to suicide.
+There are effective psychological and pharmacological treatments for moderate and severe depression.
+
+
+edits done by Sunaina...
